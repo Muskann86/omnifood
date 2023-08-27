@@ -5,4 +5,4 @@
 PS : This is a project build true a Udemy course by **_Jonas Schmedtmann_**, I recommend strongly.
 
 Here the link for course:
-[link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?kw=build+html&src=sac)
+[Build Responsive Real-World Websites With HTML And CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?kw=build+html&src=sac)
